@@ -26,7 +26,7 @@ The methodologies showcased here build upon the foundational work of numerous ma
 
 This research was conducted using professional AI software. The performance, outputs, and methodologies are a product of interactions with these systems. The use of these tools is governed by their respective Terms of Service (ToS). For detailed information on their capabilities, limitations, and usage policies, please consult the official terms for each service:
 
-Perplexity AI: [[Link to Perplexity's ToS]](https://www.perplexity.ai/hub/legal/terms-of-service)
+Perplexity AI: [Link to Perplexity's ToS](https://www.perplexity.ai/hub/legal/terms-of-service)
 
 ChatGPT-4 (OpenAI): https://openai.com/policies/row-terms-of-use/
 
