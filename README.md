@@ -1,4 +1,7 @@
-# [calcconnect.com](CAlcconnect.com)
+# Can Robots Solve the Reimann Hypothesis?
+
+
+[Check out this awesome math site we built!](CAlcconnect.com)
 
 Website for math, using AI to prove math theorems
 
