@@ -1,4 +1,4 @@
-# Can Robots Solve the Reimann Hypothesis?
+# 🤖 # Can Robots Solve the Reimann Hypothesis?
 
 
 [Check out this awesome math site we built!](http://www.calcconnect.com/) 
@@ -7,13 +7,13 @@ Website for math, using AI to prove math theorems
 
 https://youtu.be/VMMu--ooIPU?si=SxXCyCMIy8huYmtN
 
-# Please Read: 
+# 📖 # Please Read: 
 
-Experimental AI Research & Attribution
+🔄 Experimental AI Research & Attribution
 
 This video documents experimental research in the field of agentic-driven mathematics. The primary intention of this work is to contribute to scientific progress and help advance the research frontier in this specific area.
 
-**Attribution and Academic Integrity:**
+✅ **Attribution and Academic Integrity:**
 
 The methodologies showcased here build upon the foundational work of numerous mathematicians and computer scientists. All credit for the original theorems, proofs, and mathematical concepts belongs to the scholars who authored them. Our goal is to explore new ways of interacting with their work using AI, not to claim it as our own. We have made every effort to cite the original sources where applicable.
 
