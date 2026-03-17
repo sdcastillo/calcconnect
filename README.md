@@ -22,9 +22,4 @@ The methodologies showcased here build upon the foundational work of numerous ma
 This research was conducted using professional AI software. The performance, outputs, and methodologies are a product of interactions with these systems. The use of these tools is governed by their respective Terms of Service (ToS). For detailed information on their capabilities, limitations, and usage policies, please consult the official terms for each service:
 
 
-ChatGPT-4 (OpenAI): https://openai.com/policies/row-terms-of-use/
-
-Lovable.dev: https://lovable.dev/terms
-
-
 The results presented are exploratory and should be viewed as a step in an ongoing research process, not as a final, definitive conclusion.
